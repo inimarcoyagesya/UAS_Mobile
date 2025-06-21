@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398912799740",
+    "project_id": "uas-rizki-firdaus-mi23b",
+    "storage_bucket": "uas-rizki-firdaus-mi23b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398912799740:android:d0ec62d89756de760de879",
+        "android_client_info": {
+          "package_name": "com.oyo.hotel_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQkQsRPLBA7W7bnoYS53fy4eiv5qT2OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
